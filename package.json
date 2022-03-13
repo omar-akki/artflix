@@ -1,8 +1,8 @@
 {
   "homepage": "https://omar-akki.github.io/artflix",
-  "name": "demo",
+  "name": "artflix",
   "version": "1.0.0",
-  "description": "demo for react app",
+  "description": "artflix web site",
   "main": "index.js",
   "private": "true",
 
